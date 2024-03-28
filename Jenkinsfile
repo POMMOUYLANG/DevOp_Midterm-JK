@@ -18,7 +18,7 @@ pipeline {
             steps{
                 echo 'Testing unit tests...'
                 echo 'Testing feature...'
-                sh 'npm run dev'
+                sh 'npm run build'
             }
         }
     }
