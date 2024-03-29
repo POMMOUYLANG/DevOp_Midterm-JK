@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringbootGradleMidtermApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootGradleMidtermApplication.class, args)
+		SpringApplication.run(SpringbootGradleMidtermApplication.class, args);
 	}
 
 }
